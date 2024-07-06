@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Please add the name of the guild/server where this occured**
+**Please add the name of the guild/server where this occurred**
 
 **Additional context**
 Add any other context about the problem here.
